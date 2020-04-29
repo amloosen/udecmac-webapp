@@ -264,7 +264,7 @@ var quizQuestions = [
   },
 
   {
-      question:"What is your current isolation status? By ‘self-isolation’ we mean staying at home and avoiding contact to people in- and outside your household. This also means not leaving the house unless it is unavoidable (e.g. no food or medicine delivery possible, medical appointment).",
+      question:"What is your current isolation status?",
 
       answers: [{
          type: "covid-1",
